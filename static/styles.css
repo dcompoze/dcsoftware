@@ -52,7 +52,17 @@ p {
 #photo {
     width: 150px;
     height: 150px;
-    border: 2px solid #f0f0f0;
+    border: 1px solid #f0f0f0;
     border-radius: 50%;
     margin-bottom: 25px;
+}
+
+li {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+#links {
+    list-style: none;
+    padding: 0;
 }
