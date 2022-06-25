@@ -4,8 +4,8 @@ body {
 }
 
 body {
-    background-color: #fff;
-    background: radial-gradient(circle at center, #fff 0%, #f8f8f8 75%, #ebebeb 100%);
+    background-color: #ffffff;
+    background: radial-gradient(circle at center, #ffffff 0%, #f8f8f8 50%, #e0e0e0 100%);
     color: #222;
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
     font-size: 1rem;
